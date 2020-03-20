@@ -6,7 +6,7 @@ def fizzbuzz(int) # Don't forget! This file needs to be 'required' in its spec f
 elsif int % 5 == 0
     "Buzz"
 
-elsif int % 15 == 0
+elsif int == 15
   "FizzBuzz"
 
 else
