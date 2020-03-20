@@ -9,6 +9,3 @@ def buzz_5(int)
     "Buzz"
   end
 end
-
-
-end
