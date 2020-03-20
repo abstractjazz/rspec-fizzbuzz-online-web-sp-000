@@ -4,7 +4,7 @@ def fizzbuzz(int) # Don't forget! This file needs to be 'required' in its spec f
   end
 end
 
-def buzz_5(int)
+def fizz_5(int)
   if int % 5 == 0
     "Buzz"
   end
